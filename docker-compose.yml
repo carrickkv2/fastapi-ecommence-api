@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  db:
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=changeme
+      - POSTGRES_DB=test
+    restart: always
+    image: postgres:15.1-alpine
+    expose:
+      - "5432"
+
+  app:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8000:8000
+    depends_on:
+      - db

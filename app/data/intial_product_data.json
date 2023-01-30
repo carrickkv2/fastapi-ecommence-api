@@ -1,0 +1,196 @@
+[
+  {
+    "title": "Apple iPhone 11 Pro Max",
+    "description": "64GB Unlocked Smartphone",
+    "image": "https://example.com/iphone11promax.jpeg",
+    "price": 999,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "MacBook Pro 16-inch",
+    "description": "16GB RAM, 1TB Storage, i9 Processor",
+    "image": "https://example.com/macbookpro16inch.jpeg",
+    "price": 2999,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Sony PlayStation 5",
+    "description": "Next-Gen Gaming Console",
+    "image": "https://example.com/sonyps5.jpeg",
+    "price": 499,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Bose QuietComfort 35 II",
+    "description": "Wireless Noise-Cancelling Headphones",
+    "image": "https://example.com/boseqc35ii.jpeg",
+    "price": 329,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Apple Watch Series 6",
+    "description": "GPS + Cellular, 40mm Space Gray Aluminum",
+    "image": "https://example.com/applewatch6.jpeg",
+    "price": 399,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Apple iPad Pro 12.9-inch",
+    "description": "256GB, Wi-Fi + Cellular, Space Gray",
+    "image": "https://example.com/ipadpro12.9.jpeg",
+    "price": 799,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Samsung Galaxy S21 Ultra",
+    "description": "128GB Unlocked 5G Smartphone",
+    "image": "https://example.com/samsungs21ultra.jpeg",
+    "price": 1199,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Dell XPS 13 Touch Laptop",
+    "description": "16GB RAM, 1TB SSD, i7 Processor",
+    "image": "https://example.com/dellxps13.jpeg",
+    "price": 1299,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Microsoft Surface Pro 7",
+    "description": "12.3-inch Touchscreen 2-in-1 Laptop",
+    "image": "https://example.com/surfacepro7.jpeg",
+    "price": 899,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "GoPro HERO 9 Black",
+    "description": "5K Action Camera",
+    "image": "https://example.com/goprohero9.jpeg",
+    "price": 399,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Sony WH-1000XM4 Headphones",
+    "description": "Wireless Over-Ear Noise-Cancelling Headphones",
+    "image": "https://example.com/sonywh1000xm4.jpeg",
+    "price": 349,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Nintendo Switch Lite",
+    "description": "Handheld Gaming Console",
+    "image": "https://example.com/nintendoswitchlite.jpeg",
+    "price": 199,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Canon EOS Rebel T7 DSLR Camera",
+    "description": "24.1MP APS-C CMOS Sensor",
+    "image": "https://example.com/canont7.jpeg",
+    "price": 549,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Adobe Creative Cloud Photography Plan",
+    "description": "20 GB Storage, Lightroom Classic and Photoshop",
+    "image": "https://example.com/adobephotographyplan.jpeg",
+    "price": 9,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Apple HomePod mini",
+    "description": "Smart Speaker with Siri",
+    "image": "https://example.com/applehomepodmini.jpeg",
+    "price": 99,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Bose SoundLink Revolve+",
+    "description": "360-Degree Bluetooth Speaker",
+    "image": "https://example.com/bosesoundlinkrevolve+.jpeg",
+    "price": 249,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "JBL Flip 5 Waterproof Portable Bluetooth Speaker",
+    "description": "20 hours of playtime",
+    "image": "https://example.com/jblflip5.jpeg",
+    "price": 99,
+    "currency": "USD",
+    "discount": false
+  },
+
+  {
+    "title": "Fitbit Charge 4 Fitness Tracker",
+    "description": "Built-in GPS, Heart Rate Monitor",
+    "image": "https://example.com/fitbitcharge4.jpeg",
+    "price": 149,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Apple iPad Pro (2021)",
+    "description": "12.9-inch Liquid Retina Display",
+    "image": "https://example.com/ipadpro2021.jpeg",
+    "price": 799,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "DJI Mavic Air 2 Drone",
+    "description": "48MP Camera, 3-axis Gimbal Stabilization",
+    "image": "https://example.com/djimavicair2.jpeg",
+    "price": 799,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Google Nest Hub Max",
+    "description": "10-inch Smart Display with Google Assistant",
+    "image": "https://example.com/googlenesthubmax.jpeg",
+    "price": 229,
+    "currency": "USD",
+    "discount": false
+  },
+  {
+    "title": "Ring Video Doorbell 3",
+    "description": "1080p HD Video, Two-Way Talk",
+    "image": "https://example.com/ringvideodoorbell3.jpeg",
+    "price": 199,
+    "currency": "USD",
+    "discount": true
+  },
+  {
+    "title": "Arlo Pro 3 Camera System",
+    "description": "Wire-Free, 2K Video, 180-degree View",
+    "image": "https://example.com/arlopro3.jpeg",
+    "price": 399,
+    "currency": "USD",
+    "discount": false
+  },
+
+  {
+    "title": "Echo Dot (4th Gen) with Clock",
+    "description": "Smart Speaker with Alexa",
+    "image": "https://example.com/echodot4thgenclock.jpeg",
+    "price": 59,
+    "currency": "USD",
+    "discount": true
+  }
+]

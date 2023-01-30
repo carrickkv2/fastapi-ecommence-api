@@ -1,0 +1,95 @@
+# Mac OS garbage
+.DS_Store
+*.out
+
+# Python tests
+.coverage*
+.pytest_cache
+.tox
+.cache
+coverage-reports
+coverage.xml
+test-results
+.hypothesis
+/htmlcov/
+
+# JS tests
+coverage
+coverage-watch
+mb.pid
+
+# JS dependencies
+node_modules
+frontend/dist
+
+# SAM/Lambda artifacts
+app.zip
+vendored
+packaged-template.yaml
+
+# Python artifacts
+__pycache__
+*.pyc
+
+# PyCharm
+.idea
+
+# Makefile temp stuff
+.cz_*_verified
+.cz_py_dependencies_installed
+
+# Log files
+*.log
+
+# editor files
+*.swp
+*.swo
+*.swn
+
+# auth0 config
+.jwt.js
+.jwt.cjs.js
+.auth0-credentials.json
+.mypy_cache
+
+# testing
+response.json
+email_output.html
+email_output.txt
+notifications_repl_output.json
+/.vscode/
+/.env
+/.python-version
+.aws-sam
+/venv/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Serverless directories
+.serverless
+
+# remove generated docs index
+docs/index.html
+package-lock.json
+.vscode
+converage
+
+# Env
+.env
+
